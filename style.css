@@ -17,3 +17,23 @@ body {
         text-align: center;
     }
 }
+
+/* first two phrases and image section */
+#phrases {
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    font-size: large;
+    margin: 7px;
+}
+
+.short-phrases {
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.bee2 {
+    float: right;
+}
