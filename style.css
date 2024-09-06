@@ -3,3 +3,9 @@ body {
     padding: 0;
 }
 
+#introduction {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    font-size: x-large;
+}
