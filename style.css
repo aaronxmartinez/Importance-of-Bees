@@ -3,9 +3,17 @@ body {
     padding: 0;
 }
 
+/* introduction section */
 #introduction {
     display: flex;
     flex: auto;
     justify-content: center;
     font-size: x-large;
+    background: linear-gradient(yellow, rgb(243, 243, 182));
+}
+
+@media(max-width: 707px){
+    #introduction {
+        text-align: center;
+    }
 }
