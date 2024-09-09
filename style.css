@@ -24,7 +24,7 @@ body {
     flex: auto;
     flex-direction: row;
     font-size: large;
-    margin: 7px;
+    margin: 5px;
 }
 
 .short-phrases {
@@ -36,9 +36,16 @@ body {
 
 .bee2 {
     float: right;
+    margin: 5px;
 }
 
 /* list section */
+hr {
+    width: 80%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .list {
     font-size: large;
 }
