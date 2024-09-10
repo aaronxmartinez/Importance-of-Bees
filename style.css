@@ -78,3 +78,9 @@ hr {
     text-decoration: underline;
     font-weight: bold;
 }
+
+/* bee information section */
+#information {
+    display: flex;
+    justify-content: center;
+}
