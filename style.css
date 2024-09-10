@@ -41,15 +41,15 @@ body {
 }
 
 /* sentences section */
+#sentences {
+    display: flex;
+    flex: auto;
+}
+
 .bee1 {
     float: left;
     margin: 5px;
     height: 200px;
-}
-
-#sentences {
-    display: flex;
-    flex: auto;
 }
 
 .combined-sentences {
