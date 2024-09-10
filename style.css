@@ -68,7 +68,8 @@ hr {
     margin-bottom: 15px;
 }
 
-.list {
-    font-size: large;
+.card-title {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
 }
-
