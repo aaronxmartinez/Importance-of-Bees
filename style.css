@@ -81,7 +81,10 @@ body {
 .prev, .next {
     cursor: pointer;
     position: absolute;
-    top: 50%; 
+    top: 50%;
+    width: auto; 
+    margin: -22px;
+    padding: 16px;
 }
 
 /* bee information section */
