@@ -65,7 +65,7 @@ body {
     gap: 25px;
 }
 
-/* list section */
+/* cards section */
 #cards {
     display: flex;
     justify-content: center;
@@ -76,6 +76,12 @@ body {
     text-align: center;
     text-decoration: underline;
     font-weight: bold;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%; 
 }
 
 /* bee information section */
