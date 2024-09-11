@@ -81,10 +81,14 @@ body {
     align-items: center;
     background: linear-gradient(yellow, rgb(243, 243, 182));
     gap: 30px;
+    height: 10rem;
+}
+
+.list {
+    list-style: square;
 }
 
 a:link {
-    text-decoration: none;
     color: black;
 }
 
