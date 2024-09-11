@@ -85,6 +85,9 @@ body {
     width: auto; 
     margin: -22px;
     padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 /* bee information section */
