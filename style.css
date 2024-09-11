@@ -80,6 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     background: linear-gradient(yellow, rgb(243, 243, 182));
+    gap: 30px;
 }
 
 a:link {
