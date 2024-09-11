@@ -78,4 +78,6 @@ body {
 #information {
     display: flex;
     justify-content: center;
+    align-items: center;
+    background: linear-gradient(yellow, rgb(243, 243, 182));;
 }
