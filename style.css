@@ -79,5 +79,18 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(yellow, rgb(243, 243, 182));;
+    background: linear-gradient(yellow, rgb(243, 243, 182));
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: lightslategray;
+}
+
+a:visited {
+    color: rgb(225, 114, 240);
 }
