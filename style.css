@@ -68,8 +68,10 @@ body {
 /* cards section */
 #cards {
     display: flex;
+    flex: auto;
     justify-content: center;
     margin: 30px;
+    gap: 5px;
 }
 
 .card-title {
@@ -81,6 +83,7 @@ body {
 /* bee information section */
 #information {
     display: flex;
+    flex: auto;
     justify-content: center;
     align-items: center;
     background: linear-gradient(yellow, rgb(243, 243, 182));
