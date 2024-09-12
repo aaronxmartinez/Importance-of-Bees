@@ -14,8 +14,8 @@ body {
     height: 6rem;
 }
 
-@media(max-width: 737px){
-    #introduction {
+@media(max-width: 780px){
+    #introduction, #information {
         text-align: center;
     }
 }
