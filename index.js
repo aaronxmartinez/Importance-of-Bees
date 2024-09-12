@@ -1,3 +1,3 @@
-document.querySelector("card").addEventListener("onclick", function(){
-    document.querySelector("card-title").innerHTML = "gay";
+document.querySelectorAll("card").addEventListener("onmouseover", function(){
+    document.querySelectorAll("card-text").innerHTML = "gay";
 });
