@@ -74,6 +74,15 @@ body {
     gap: 5px;
 }
 
+.card {
+    width: 18rem;
+}
+
+.card:hover {
+    width: 30rem;
+    background: rgb(219, 228, 237);
+}
+
 .card-title {
     text-align: center;
     text-decoration: underline;
